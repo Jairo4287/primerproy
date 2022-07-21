@@ -1,0 +1,12 @@
+Para clonar un repositorio local:
+Te situas en el directorio y podes hacer un click con el boton derecho y click en "Git Bash Here"
+Se abre la ventana de comado y ejecutas:
+- git clone "https://github.com/Jairo4287/primerproy" (dirección del repositorio remoto)
+
+Si haces cambios en el repositorio remoto y queres sincronizar con el local:
+- git pull
+
+- git status
+Te indica si tenes cambios para subir
+
+
