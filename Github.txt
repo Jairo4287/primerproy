@@ -9,4 +9,17 @@ Si haces cambios en el repositorio remoto y queres sincronizar con el local:
 - git status
 Te indica si tenes cambios para subir
 
+- git add .
+Adiciona todos los cambios al Stagin area
+
+- git commit -m 'este es un primer comit'
+Genera el commit o comentario del cambio
+
+- git push
+Confirma los cambios y los sube al repositorio remoto.
+
+--------------------------------------------------------
+
+- git log 
+Muestra los cambios en el repositorio y los commit
 
